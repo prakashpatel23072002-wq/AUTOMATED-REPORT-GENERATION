@@ -1,0 +1,19 @@
+Date,Product,Region,Sales,Expenses
+2023-01-01,Product A,North,5000,3000
+2023-01-01,Product B,North,4500,2800
+2023-01-01,Product C,North,6000,3500
+2023-01-01,Product A,South,5500,3200
+2023-01-01,Product B,South,4800,2900
+2023-01-01,Product C,South,6200,3800
+2023-02-01,Product A,North,5200,3100
+2023-02-01,Product B,North,4700,2850
+2023-02-01,Product C,North,6100,3600
+2023-02-01,Product A,South,5600,3300
+2023-02-01,Product B,South,4900,2950
+2023-02-01,Product C,South,6300,3900
+2023-03-01,Product A,North,5300,3150
+2023-03-01,Product B,North,4800,2900
+2023-03-01,Product C,North,6200,3650
+2023-03-01,Product A,South,5700,3350
+2023-03-01,Product B,South,5000,3000
+2023-03-01,Product C,South,6400,3950
